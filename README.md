@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and webdevelopment
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach by linkedin account
 
 <!---
 Sumit8617/Sumit8617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
